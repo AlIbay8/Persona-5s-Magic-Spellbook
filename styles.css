@@ -1,0 +1,44 @@
+.p5title {
+    width: 300px;
+    height: 150px;
+}
+
+
+.arsene {
+    width: 400px;
+}
+
+.spell1, .spell2, .spell3 {
+    text-align: center;
+    margin: 10px;
+}
+
+.arsene, .batonpassgif, .phantomThief, .back{
+    display: none;
+}
+
+body {
+    background: red;
+}
+
+.arsene {
+    background: white;
+}
+
+h3 {
+    color: white;
+}
+
+.headerContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.callingcard {
+    display: flex;
+    justify-content: center;
+}
+
+.normal, .phantomThief {
+    margin: 5px;
+}
